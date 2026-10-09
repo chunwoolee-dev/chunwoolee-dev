@@ -15,6 +15,12 @@
   <img src="https://img.shields.io/badge/Docker-087F8C?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
 </p>
 
+<p align="center">
+  <a href="https://chunwoolee.com/">개인 사이트</a> ·
+  <a href="https://chunwoolee.com/projects/">프로젝트</a> ·
+  <a href="https://chunwoolee.com/blog/">블로그</a>
+</p>
+
 ## 소개
 
 안녕하세요, **SpringRain**입니다. 백엔드 API 개발부터 클라우드 인프라 구축과 운영까지, 서비스가 안정적으로 동작하는 전체 흐름을 다룹니다.
@@ -39,6 +45,20 @@ Python과 TypeScript로 API를 설계하고, 비동기 작업과 리소스 수�
 | 비동기 처리 | Redis · RabbitMQ · Tokio · WebSocket |
 | 인프라 | Linux · Docker · Docker Compose · Kubernetes |
 | 클라우드·가상화 | AWS · Azure · Naver Cloud · Proxmox · XenServer · OpenStack |
+
+## 개인 사이트
+
+### [chunwoolee.com](https://chunwoolee.com/)
+
+백엔드 개발과 클라우드 인프라 경험, 프로젝트, 기술 기록을 정리한 개인 포트폴리오 사이트입니다. 클라우드 관리 플랫폼, 서비스 API, 모니터링 에이전트와 운영 자동화 프로젝트를 소개합니다.
+
+| 바로가기 | 내용 |
+| :--- | :--- |
+| [프로젝트](https://chunwoolee.com/projects/) | 프로젝트별 역할, 사용 기술, 구현 경험 |
+| [블로그](https://chunwoolee.com/blog/) | 개발과 서버 운영에 관한 기술 기록 |
+| [사이트 저장소](https://github.com/chunwoolee-dev/chunwoolee.com) | Hexo · NexT 기반 소스와 GitHub Actions 배포 구성 |
+
+**사이트 구성:** Hexo · NexT · Node.js / **배포:** GitHub Pages · GitHub Actions
 
 ## 경험과 관심
 
