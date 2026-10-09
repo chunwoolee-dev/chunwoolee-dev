@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" width="100%" alt="SpringRain — 백엔드와 클라우드 인프라를 연결합니다" />
+  <img src="https://raw.githubusercontent.com/chunwoolee-dev/chunwoolee-dev/7fee25d6dcaa5293ab82c5d558f84fab2a45be00/profile-banner.svg" width="100%" alt="SpringRain — 백엔드와 클라우드 인프라를 연결합니다" />
 </p>
 
 <p align="center">
